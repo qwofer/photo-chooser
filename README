@@ -1,0 +1,10 @@
+Photo Chooser
+
+1. yarn start for start
+2. put files to photos/all directory
+3. run localhost:3000
+4. left and right arrow for choose photo for save (other photo will be deleted)
+5. space for saving two photos
+6. d key for deleting both photos
+
+All deleted photos will be placed at deleted directory

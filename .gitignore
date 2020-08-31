@@ -1,0 +1,6 @@
+node_modules
+.idea
+photos/all/*
+!photos/all/.gitkeep
+photos/deleted/*
+!photos/deleted/.gitkeep
